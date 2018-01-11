@@ -1,2 +1,6 @@
 # emptyR
 test
+
+```{R}
+hello()
+```
